@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1557657733 source:c:\users\11346\desktop\编程文件\9.5\src\complex.cpp
+	"Complex.h"
+	<iostream>
+	<iomanip>
+
+1557657733 c:\users\11346\desktop\编程文件\9.5\include\complex.h
+
+1557657733 source:c:\users\11346\desktop\编程文件\9.5\main.cpp
+	<iostream>
+	"Complex.h"
+
