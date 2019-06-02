@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1559475718 source:c:\users\11346\desktop\编程文件\12.12\src\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1559475719 c:\users\11346\desktop\编程文件\12.12\include\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1559475718 c:\users\11346\desktop\编程文件\12.12\include\commissionemployee.h
+	"Employee.h"
+
+1559475717 c:\users\11346\desktop\编程文件\12.12\include\employee.h
+	<string>
+	"Date.h"
+
+1559476307 c:\users\11346\desktop\编程文件\12.12\include\date.h
+	<iostream>
+
+1559475717 source:c:\users\11346\desktop\编程文件\12.12\src\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1559476307 source:c:\users\11346\desktop\编程文件\12.12\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1559475716 source:c:\users\11346\desktop\编程文件\12.12\src\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1559475714 source:c:\users\11346\desktop\编程文件\12.12\src\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
+1559475715 c:\users\11346\desktop\编程文件\12.12\include\salariedemployee.h
+	"Employee.h"
+
